@@ -1,0 +1,111 @@
+.description-wrapper {
+  position: absolute;
+  width: 208px;
+  height: 171px;
+  top: 150px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.7) 0%,
+    #e2e2ef 43.73%,
+    #4667bb 100%
+  );
+  border-radius: 20px;
+}
+
+.desc-name {
+  width: 100%;
+  height: 19px;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #253766;
+  display: flex;
+  align-items: flex-start;
+}
+
+.new-icon {
+  padding: 2px 4px;
+  gap: 10px;
+  position: absolute;
+  width: 26px;
+  height: 14px;
+  right: 16px;
+  top: 16px;
+  background: #4667bb;
+  border-radius: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.desc-break-line {
+  width: 176px;
+  height: 0.5px;
+  background-color: #253766;
+  margin-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.desc-info-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 17.5px;
+  gap: 6px;
+  width: 100%;
+  height: 12px;
+  padding-bottom: 8px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  color: #253766;
+}
+
+.contact-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+  width: 72px;
+  height: 28px;
+  position: absolute;
+  bottom: 20px;
+  left: 61px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 27px;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.contact-btn:hover {
+  border: 1px solid #253766;
+  color: #253766;
+}
+
+.contact-btn:focus {
+  background: #253866;
+  color: #ffffff;
+  border: none;
+}
