@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moveo-component/static/css/main.baca8b54.css",
+    "main.js": "/moveo-component/static/js/main.5016371e.js",
+    "static/js/787.00c516db.chunk.js": "/moveo-component/static/js/787.00c516db.chunk.js",
+    "index.html": "/moveo-component/index.html",
+    "main.baca8b54.css.map": "/moveo-component/static/css/main.baca8b54.css.map",
+    "main.5016371e.js.map": "/moveo-component/static/js/main.5016371e.js.map",
+    "787.00c516db.chunk.js.map": "/moveo-component/static/js/787.00c516db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baca8b54.css",
+    "static/js/main.5016371e.js"
+  ]
+}
